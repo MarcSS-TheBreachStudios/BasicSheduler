@@ -1,0 +1,5 @@
+﻿  Main.cpp
+  Scheduler.cpp
+F:\Repositories\Testing\BasicScheduler\BasicScheduler\Scheduler.cpp(64,18): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+  Generating Code...
+  BasicScheduler.vcxproj -> F:\Repositories\Testing\BasicScheduler\Debug\BasicScheduler.exe
